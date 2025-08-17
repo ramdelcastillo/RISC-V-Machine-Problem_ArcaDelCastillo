@@ -1,5 +1,5 @@
 ## LBYARCH RISC-V Machine Problem
-This project simulates Pokémon battles by comparing type effectiveness. Each Pokémon’s types (limited to the first 100 Pokémon) are stored in memory, and their effectiveness against an opponent’s types is calculated using the multiplier table. For dual types, the effectiveness of each type is multiplied against both opponent types, and the results are averaged to get the Pokémon’s final score, while single-type Pokémon only have one score. The one with the higher score wins, or -1 is returned for a tie.<br><br>
+This project simulates Pokémon battles by comparing type effectiveness. Each Pokémon’s types (limited to the first 100 Pokémon) are stored in memory, and their effectiveness against an opponent’s types is calculated using the multiplier table. For dual types, the effectiveness of each type is multiplied against both opponent types, and the results are averaged to get the Pokémon’s final score, while single-type Pokémon only have one score. The one with the higher score wins, or -1 is returned for a tie. This project should be run in [**RARS 1.6**](https://github.com/TheThirdOne/rars/releases/download/v1.6/rars1_6.jar).<br><br>
 The effectiveness table will be seen below:
 <img width="1027" height="501" alt="image" src="https://github.com/user-attachments/assets/ddd10c19-b821-4313-b3cb-c55b3440027f" />
 <br><br>
